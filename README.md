@@ -1,7 +1,5 @@
 # Olá 👋, Eu me chamo Gustavo Campos
-🇧🇷 Brazil
-🔭 Estou atualmente cursando engenharia da computação,
-🌱 Aprendendo back-end e front-end
+ Estou atualmente cursando engenharia da computação, Aprendendo back-end e front-end
 
 ---
 
