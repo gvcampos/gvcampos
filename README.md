@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá 👋, Eu me chamo Gustavo Campos
+🔭 Estou atualmente cursando engenharia da computação
+🌱 Aprendendo back-end e front-end
+🇧🇷 Brazil
 
-<!--
-**gvcampos/gvcampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 Onde me encontrar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://instagram.com/gustavo_campos22">
+    <img src="https://img.shields.io/badge/Instagram-@gustavo_campos22-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gvcampos&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvcampos&layout=compact&theme=tokyonight" />
+</p>
+
+---
